@@ -19,8 +19,7 @@ Chatbot desenvolvido para:
 ## ✨ Funcionalidades
 
 ### 📋 Formulário de Dados
-```mermaid
-graph TD
+```
     A[Inicia com /start] --> B[Coleta Nome]
     B --> C[Idade]
     C --> D[Localização]
