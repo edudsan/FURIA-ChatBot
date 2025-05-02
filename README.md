@@ -18,13 +18,6 @@ Chatbot desenvolvido para:
 
 ## ✨ Funcionalidades
 
-### 🤖 Chat Inteligente
-- Respostas automáticas contextualizadas
-- Comandos específicos:
-  - `/jogadores` - Lista elenco atual
-  - `/calendario` - Próximos jogos
-  - `/historico` - Resultados recentes
-
 ### 📋 Formulário de Dados
 ```mermaid
 graph TD
