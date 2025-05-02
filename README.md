@@ -2,6 +2,7 @@
 
 Um chatbot inteligente para interação com fãs da FURIA no Telegram, utilizando Active Pieces e API do Gemini, com sistema de coleta de dados dos fãs.
 
+link: t.me/Furioso_Chatbot
 ## 📌 Visão Geral
 Chatbot desenvolvido para:
 - Automatizar atendimento aos fãs no Telegram
